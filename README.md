@@ -1,4 +1,4 @@
-# Studen Directory
+# Student Directory
 ### Keep Track of the Multitude of Students You've Taught
 
 Can't keep track of all the students you've taught over the years?
